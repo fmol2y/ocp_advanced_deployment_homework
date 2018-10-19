@@ -1,11 +1,1 @@
-infranode1.2e9c.internal
-infranode2.2e9c.internal
-loadbalancer1.2e9c.internal
-master1.2e9c.internal
-master2.2e9c.internal
-master3.2e9c.internal
-node1.2e9c.internal
-node2.2e9c.internal
-node3.2e9c.internal
-node4.2e9c.internal
-support1.2e9c.internal
+localhost
